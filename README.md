@@ -33,29 +33,49 @@ practices.
 
 ## 🛠 How to Run the Project
 
-Copy-paste **all at once** in your terminal:
+Copy-paste in your terminal:
+
+# 1️⃣ Clone the repository
 
 ```bash
-# 1️⃣ Clone the repository
 git clone https://github.com/maisarahdev/laravel-tailwind.git
+```
+
+```bash
 cd laravel-tailwind
+```
 
 # 2️⃣ Install backend dependencies
+
+```bash
 composer install
+```
 
 # 3️⃣ Install frontend dependencies
+
+```bash
 npm install
+```
 
 # 4️⃣ Setup environment
+
+```bash
 cp .env.example .env
+```
+
+```bash
 php artisan key:generate
+```
 
 # 5️⃣ Run the application
+
+```bash
 npm run dev & php artisan serve
+```
 
 # Open in browser:
+
 # http://127.0.0.1:8000
-```
 
 ---
 
@@ -76,4 +96,8 @@ Maisarah
 Frontend-focused developer with experience building internal systems,
 data-heavy forms, and structured UI for organizational use.
 
-GitHub: `bash https://github.com/maisarahdev`
+GitHub:
+
+```bash
+https://github.com/maisarahdev
+```
