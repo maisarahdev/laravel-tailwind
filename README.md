@@ -96,8 +96,4 @@ Maisarah
 Frontend-focused developer with experience building internal systems,
 data-heavy forms, and structured UI for organizational use.
 
-GitHub:
-
-```bash
-https://github.com/maisarahdev
-```
+GitHub: https://github.com/maisarahdev
