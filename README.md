@@ -35,7 +35,7 @@ practices.
 
 Copy-paste in your terminal:
 
-# 1️⃣ Clone the repository
+1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/maisarahdev/laravel-tailwind.git
@@ -45,19 +45,19 @@ git clone https://github.com/maisarahdev/laravel-tailwind.git
 cd laravel-tailwind
 ```
 
-# 2️⃣ Install backend dependencies
+2️⃣ Install backend dependencies
 
 ```bash
 composer install
 ```
 
-# 3️⃣ Install frontend dependencies
+3️⃣ Install frontend dependencies
 
 ```bash
 npm install
 ```
 
-# 4️⃣ Setup environment
+4️⃣ Setup environment
 
 ```bash
 cp .env.example .env
@@ -67,15 +67,15 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-# 5️⃣ Run the application
+5️⃣ Run the application
 
 ```bash
 npm run dev & php artisan serve
 ```
 
-# Open in browser:
+Open in browser:
 
-# http://127.0.0.1:8000
+http://127.0.0.1:8000
 
 ---
 
